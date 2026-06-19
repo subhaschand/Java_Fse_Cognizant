@@ -1,4 +1,4 @@
-package week1.factory;
+package week1.weekone.factory;
 
 
 interface Vehicle {

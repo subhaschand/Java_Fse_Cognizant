@@ -1,4 +1,4 @@
-package week1.EcommerceSearchEngine;
+package week1.weekone.EcommerceSearchEngine;
 
 import java.util.ArrayList;
 import java.util.Collections;

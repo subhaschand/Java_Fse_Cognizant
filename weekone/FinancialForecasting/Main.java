@@ -1,4 +1,4 @@
-package week1.FinancialForecasting;
+package week1.weekone.FinancialForecasting;
 
 
 import java.util.Scanner;
